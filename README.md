@@ -25,7 +25,7 @@ Muhammad Ramadhan - 2210010178 - Kelas 5C reg Pagi Banjarmasin
 
 ## Demo
 
-![App Screenshot](https://github.com/HaxsUr/PerhitunganDiskon-PBO2/blob/main/gmbr/demo.gif)
+![App Screenshot](https://github.com/HaxsUr/AplikasiPenghitungKata/blob/main/demo/demo.gif)
 
 
 
