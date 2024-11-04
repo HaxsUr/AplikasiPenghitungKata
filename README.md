@@ -27,7 +27,7 @@ Muhammad Ramadhan - 2210010178 - Kelas 5C reg Pagi Banjarmasin
 
 ## Demo
 
-![App Screenshot](https://github.com/HaxsUr/AplikasiPenghitungKata/blob/main/demo/demo1.gif)
+![App Screenshot](https://github.com/HaxsUr/AplikasiPenghitungKata/blob/main/demo/bukti.gif)
 
 
 
